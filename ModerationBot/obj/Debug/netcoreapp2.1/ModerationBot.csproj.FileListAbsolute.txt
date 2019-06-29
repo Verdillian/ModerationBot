@@ -1,0 +1,11 @@
+C:\Users\blckn\source\repos\ModerationBot\ModerationBot\bin\Debug\netcoreapp2.1\ModerationBot.deps.json
+C:\Users\blckn\source\repos\ModerationBot\ModerationBot\bin\Debug\netcoreapp2.1\ModerationBot.runtimeconfig.json
+C:\Users\blckn\source\repos\ModerationBot\ModerationBot\bin\Debug\netcoreapp2.1\ModerationBot.runtimeconfig.dev.json
+C:\Users\blckn\source\repos\ModerationBot\ModerationBot\bin\Debug\netcoreapp2.1\ModerationBot.dll
+C:\Users\blckn\source\repos\ModerationBot\ModerationBot\obj\Debug\netcoreapp2.1\ModerationBot.csprojAssemblyReference.cache
+C:\Users\blckn\source\repos\ModerationBot\ModerationBot\obj\Debug\netcoreapp2.1\ModerationBot.csproj.CoreCompileInputs.cache
+C:\Users\blckn\source\repos\ModerationBot\ModerationBot\obj\Debug\netcoreapp2.1\ModerationBot.AssemblyInfoInputs.cache
+C:\Users\blckn\source\repos\ModerationBot\ModerationBot\obj\Debug\netcoreapp2.1\ModerationBot.AssemblyInfo.cs
+C:\Users\blckn\source\repos\ModerationBot\ModerationBot\bin\Debug\netcoreapp2.1\ModerationBot.pdb
+C:\Users\blckn\source\repos\ModerationBot\ModerationBot\obj\Debug\netcoreapp2.1\ModerationBot.dll
+C:\Users\blckn\source\repos\ModerationBot\ModerationBot\obj\Debug\netcoreapp2.1\ModerationBot.pdb

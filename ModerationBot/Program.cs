@@ -79,12 +79,21 @@ namespace ModerationBot
                 Console.WriteLine("Please enter the following information to save into your configuration/config.json file");
 
                 Console.Write("Bot Token: ");
-                config.Token = Console.ReadLine();              // Read the bot token from console.
+                config.Token = Console.ReadLine();
 
                 Console.Write("Bot Prefix: ");
-                config.Prefix = Console.ReadLine();              // Read the bot prefix from console.
+                config.Prefix = Console.ReadLine();
 
-                config.Save();                                  // Save the new configuration object to file.
+                Console.Write("Server Logs Channel: ");
+                config.BotLogs = Convert.ToUInt64(Console.ReadLine());
+
+                Console.Write("Muted Role Name: ");
+                config.MutedRole = Console.ReadLine();
+
+                Console.WriteLine("Configuration Saving....");
+
+                config.Save();
+                Console.WriteLine("Configuration has been saved.");
             }
             Console.WriteLine("Configuration has been loaded");
         }
