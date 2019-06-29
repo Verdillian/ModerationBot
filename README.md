@@ -7,7 +7,7 @@
 ## About Moderation
 Moderation is made to moderate your discord for you so you can enjoy hangin with your community and not worry about those pesky self bots or anything like that.
 
-![Github_social](https://cdn.discordapp.com/attachments/587411637363802135/593832015065776138/0.jpg)
+![Github_social](LINK)
 
 ## Inviting Moderation Bot
 - Start by inviting the bot to your server, just like any other bot. 
