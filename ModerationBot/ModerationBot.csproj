@@ -24,7 +24,6 @@
     <Folder Include="Modules\Music\" />
     <Folder Include="Modules\Games\" />
     <Folder Include="Modules\Economy\" />
-    <Folder Include="Modules\Filters\" />
   </ItemGroup>
 
 </Project>

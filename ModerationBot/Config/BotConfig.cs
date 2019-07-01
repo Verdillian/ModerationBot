@@ -11,13 +11,17 @@ namespace ModerationBot.Config
 
         public string Prefix { get; set; }
         public string Token { get; set; }
+        public ulong ServerID { get; set; }
         public ulong BotLogs { get; set; }
+        public ulong UserJoinLeave { get; set; }
         public string MutedRole { get; set; }
         public BotConfig()
         {
             Prefix = "--";
             Token = "";
+            ServerID = 0;
             BotLogs = 0;
+            UserJoinLeave = 0;
             MutedRole = "MUTED";
         }
 
